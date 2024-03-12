@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net7.0;net8.0</TargetFrameworks>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Intelsoft.Common.Result</AssemblyName>
+        <RootNamespace>Intelsoft.Common.Result</RootNamespace>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <Version>1.0.0</Version>
+        <Authors>Intelsoft</Authors>
+        <Company>Intelsoft</Company>
+        <Description>Wrapper library for handling operation results in .NET applications.</Description>
+        <PackageId>Intelsoft.Common.Result</PackageId>
+        <PackageTags>dotnet;result;wrapper;intelsoft</PackageTags>
+        <RepositoryUrl>https://github.com/zhanjkee/intelsoft-common</RepositoryUrl>
+        <IncludeSymbols>true</IncludeSymbols>
+        <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    </PropertyGroup>
+
+</Project>
